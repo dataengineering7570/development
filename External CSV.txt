@@ -1,0 +1,6 @@
+id,name, salary
+101,ss, 2000
+102, sas, 12000
+103, qt, 22000
+
+C:\Users\BJ\OneDrive\Desktop\CDE_GCP_Batch13-20230303T202640Z-001\CDE_GCP_Batch13\BigQuery
